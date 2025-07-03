@@ -6,12 +6,10 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image:  
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+ 
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,8 +25,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Established in July 2021, the Data Innovation Lab serves as an integrated environment for research in the area of innovation economics and management. We are particularly interested in understanding how we can leverage and comprehend the role of the data and AI revolution in shaping innovation, entrepreneurship and creativity at the individual, firm and societal level. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+For instance, our prior work has shown the impact of satellite imagery on discovery and entrepreneurship in the gold mining industry, the impact of data-driven genomics on innovation in the pharmaceutical industry,  and the impact of online review listings on business performance in the restaurant industry. Our research is typically conducted using large-scale observational data and applied microeconometric techniques, as well as applied machine learning tools, albeit complemented with in-depth phenomenological and qualitative work in the settings we study.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+With chapters at the UC Berkeley Haas School of Business and the Wharton School of the University of Pennsylvania, we are a highly collaborative group. We host researchers at various stages of their careers, including pre-doctoral and post-doctoral scholars, PhD candidates, and undergraduate/master’s students. For more information, please click the links below.

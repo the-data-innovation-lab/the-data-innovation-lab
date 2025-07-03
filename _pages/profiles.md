@@ -11,68 +11,68 @@ profiles:
   # and create one content file for each profile inside _pages/
   - align: right
     image: profile_pics/abhishek.jpg
-    content: about_einstein.md
+    content: about_abhishek.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Dr. Abhishek Nagaraj</p>
       <p>Co-Director</p>
-      <p>Associate Professor, Haas School of Business - UC Berkeley</p>
+      <p>Associate Professor, Haas School of Business - UC Berkeley, and Faculty Research Fellow at NBER</p>
   - align: left
     image: profile_pics/matteo.jpg
-    content: about_einstein.md
+    content: about_matteo.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Dr. Matteo Trancheror</p>
       <p>Co-Director</p>
       <p>Assistant Professor, Wharton School of Business - UPenn</p>
   - align: right
-    image: prof_pic.jpg
-    content: about_einstein.md
+    image: profile_pics/tim.jpg
+    content: about_tim.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>Dr. Tim Sels</p>
+      <p>Post-Doc</p>
+      <p>UC Berkeley</p>
   - align: left
-    image: prof_pic.jpg
-    content: about_einstein.md
+    image: profile_pics/srikanth.jpg
+    content: about_srikanth.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>Srikanth Janjirala</p>
+      <p>PhD Student</p>
+      <p>UC Berkeley</p>
+  - align: right
+    image: profile_pics/kris.jpg
+    content: about_kris.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Kris Gulati</p>
+      <p>PhD Student</p>
+      <p>UC Berkeley</p>
   - align: left
-    image: prof_pic.jpg
-    content: about_einstein.md
+    image: profile_pics/gaveal.jpg
+    content: about_gaveal.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>Gaveal Fan</p>
+      <p>PhD Student</p>
+      <p>UC Berkeley</p>
+  - align: right
+    image: profile_pics/arul.jpg
+    content: about_arul.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Arul Murugan</p>
+      <p>Masters Student</p>
+      <p>UC Berkeley</p>
   - align: left
-    image: prof_pic.jpg
-    content: about_einstein.md
+    image: profile_pics/kenny.jpg
+    content: about_kenny.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
-  - align: left
-    image: prof_pic.jpg
-    content: about_einstein.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
-  - align: left
-    image: prof_pic.jpg
-    content: about_einstein.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>Kenny Wongchamcharoen</p>
+      <p>Undergrad Student</p>
+      <p>UC Berkeley</p>
 ---
 
 ---
@@ -93,7 +93,6 @@ profiles:
 
 **Eva Cheng** (2024), @ London Business School  
 **Randol Yao** (2023), @ MIT Sloan  
-**[Add more predoctoral alumni here]**
 
 ---
 
