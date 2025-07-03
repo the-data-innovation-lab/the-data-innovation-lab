@@ -92,7 +92,7 @@ profiles:
 ### Predoctoral ALUMNI
 
 **Eva Cheng** (2024), @ London Business School  
-**Randol Yao** (2023), @ MIT Sloan  
+**Randol Yao** (2023), @ MIT Sloan
 
 ---
 
