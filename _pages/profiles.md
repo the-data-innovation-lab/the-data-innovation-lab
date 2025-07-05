@@ -73,6 +73,14 @@ profiles:
       <p>Kenny Wongchamcharoen</p>
       <p>Undergrad Student</p>
       <p>UC Berkeley</p>
+  - align: right
+    image: profile_pics/min_min.jpg
+    content: about_min_min.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Min Min Fong</p>
+      <p>Pre-Doc</p>
+      <p>UC Berkeley</p>
 ---
 
 ---

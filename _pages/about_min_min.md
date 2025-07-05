@@ -1,0 +1,1 @@
+Min Min Fong is a predoctoral researcher at DIAL. She graduated from UC Berkeley with a degree in applied math and economics, with a minor in education. Min Min is interested in behavioral economics, education, innovation, and the science of science. In her free time, she likes to draw, go on walks, and ride around on her moped.
